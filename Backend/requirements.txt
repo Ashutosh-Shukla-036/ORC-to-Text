@@ -5,5 +5,4 @@ Pillow
 pdf2image
 python-dotenv
 opencv-python
-cv2
 numpy
